@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Passion+One&display=swap");
+
+.Hlink1{
+    position: absolute;
+    right: 200px;
+    top:40px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.Hlink2{
+    position: absolute;
+    right: 100px;
+    top:40px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+.selected {
+    color: rgb(175, 32, 92);
+    border-bottom: 4px solid rgb(175, 32, 92);
+    padding-bottom: 7px;
+}
