@@ -1,7 +1,4 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
-import { Header } from "./Header.js";
-import { Homepage } from "./Homepage.js"
 import styled from "styled-components";
 
 const Abouttxt = styled.p`
